@@ -1,3 +1,6 @@
+Site criado para um trabalho de empreendedorismo na faculdade,a ideia seria uma divulgação de um empresa ficticia
+
+
 # [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
